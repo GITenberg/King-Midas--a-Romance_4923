@@ -1,0 +1,33 @@
+_repo: King-Midas--a-Romance_4923
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Fitch, Clarke
+    - Garrison, Frederick
+    - Sinclair, Upton Beall
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: Atypical in a canon of socialist messages and stories of struggle against
+  indomitable forces, King Midas is a romantic story about two lovers who have been
+  cursed by turning whatever they touch into ivy. Biographers of Sinclair have said
+  that he was ardently opposed to pre-marital sex. King Midas, in that light, presents
+  a unique moral allegory from one of the 20th century's most renowned socialists.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'King Midas: a Romance'
+url: http://www.gutenberg.org/ebooks/4923
