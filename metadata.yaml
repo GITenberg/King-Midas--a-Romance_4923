@@ -1,5 +1,8 @@
 _repo: King-Midas--a-Romance_4923
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -17,6 +20,8 @@ description: Atypical in a canon of socialist messages and stories of struggle a
   cursed by turning whatever they touch into ivy. Biographers of Sinclair have said
   that he was ardently opposed to pre-marital sex. King Midas, in that light, presents
   a unique moral allegory from one of the 20th century's most renowned socialists.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4923#King-Midas--a-Romance
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
